@@ -15,13 +15,13 @@ Adalah **Ekstensi Chrome** berfungsi untuk mengganti nama ke karakter yang tidak
 #### Instalasi
 Instalasi dependensi yang diperlukan
 ```sh
-yarn
+ayan
 ```
 #### Development
 ```sh
-yarn dev
+ayan dev
 ```
 #### Build
 ```sh
-yarn build
+ayan build
 ```
